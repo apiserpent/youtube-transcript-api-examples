@@ -1,3 +1,5 @@
+**English** | [简体中文](README.zh-CN.md)
+
 # YouTube Transcript API
 
 Get the transcript of any YouTube video as timed segments or plain text, in the language you choose.
